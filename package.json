@@ -1,0 +1,26 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "Proxy HTTP requests",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WorstUnicumEU/proxy.git"
+  },
+  "keywords": [
+    "Proxy"
+  ],
+  "author": "WorstUnicumEU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WorstUnicumEU/proxy/issues"
+  },
+  "homepage": "https://github.com/WorstUnicumEU/proxy#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.17.0"
+  }
+}
